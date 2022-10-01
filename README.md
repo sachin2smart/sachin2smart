@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Sachin
-- 👀 I’m interested in Programming and Problem Solving 
-- 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on Leetcode 
+- 👋 Hi, My name is Sachin
+- 👀 I’m keen towards Programming and Problem Solving 
+- 🌱 I’m currently applying Data Structures
+- 💞️ I’m working on solving problmes on Leetcode 
 - 📫 How to reach me : sachin2smart@gmail.com
 
 <!---
