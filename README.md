@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Sachin
-- 👀 Loves programming and problem solving using Data Structure
+- 👋 Hi, my name is Sachin
+- 👀 Good at programming and problem solving using Data Structure
 
 <!---
 sachin2smart/sachin2smart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
